@@ -1,0 +1,6 @@
+requests
+pandas
+snakeviz
+typer
+autopep8
+pylint
